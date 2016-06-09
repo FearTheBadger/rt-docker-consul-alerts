@@ -1,4 +1,4 @@
-FROM acalepg/consul-alerts:latest
+FROM acaleph/consul-alerts:latest
 
 ENV CONSUL_ADDR localhost
 
